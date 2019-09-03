@@ -11,6 +11,7 @@ Problems Solved
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Medium|[JavaScript](https://github.com/onetrieuhero/LeetCode/blob/master/BinaryTreeInorderTraversal/Solution.js)
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Easy|[JavaScript](https://github.com/onetrieuhero/LeetCode/blob/master/MaxDepthOfBinaryTree/Solution.js)
 |136|[Single Number](https://leetcode.com/problems/single-number/)|Easy|[Java](https://github.com/onetrieuhero/LeetCode/blob/master/SingleNumber/Solution.java) [JavaScript](https://github.com/onetrieuhero/LeetCode/blob/master/SingleNumber/Solution.js)
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|Easy|[JavaScript](https://github.com/onetrieuhero/LeetCode/blob/master/MajorityElement/Solution_HashMap.js)
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Easy|[Java](https://github.com/onetrieuhero/LeetCode/blob/master/ReverseLinkedList/Solution.java)
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|Medium|[Java](https://github.com/onetrieuhero/LeetCode/blob/master/Kth%20Largest%20Element/Solution.java) [JavaScript](https://github.com/onetrieuhero/LeetCode/blob/master/Kth%20Largest%20Element/Solution.js)
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|Easy|[JavaScript](https://github.com/onetrieuhero/LeetCode/blob/master/InvertBinaryTree/Solution.js)
